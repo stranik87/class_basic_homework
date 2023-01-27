@@ -11,10 +11,22 @@ Automated grading of homework assignments and tests
 
   Create a "Person" class
 
+Methods:
+
+* `__init__` (constructor)
+
 ## 02 create_one_attribute
 
   Create a "Person" class.
   Create an attribute "name" in the "Person" class.
+
+Attributes:
+
+* `name` (str)
+
+Methods:
+
+* `__init__` (constructor)
 
 ## 03 create_one_object
 
@@ -38,11 +50,20 @@ Automated grading of homework assignments and tests
   Create a "Person" class
   that has a name("name") and a age("age")
 
-  
+Attributes:
+
+* `name` (str)
+* `age` (int)
+
+Methods:
+
+* `__init__` (constructor)
+
 ## 07 create_two_attribute_one_objects
   
   create an object named "person" whose name is "Ali", age is "25"
-  
+
+
 # Warning
 - don't copy other solutions or any solution
 - don't remove comments
